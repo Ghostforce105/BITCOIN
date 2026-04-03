@@ -139,11 +139,11 @@ SHA-256 operates on:
 * State transitions (0 → 1 → 2 → 3) indicate pipeline stages
 * Stable hash output after pipeline latency
 * Parallel inputs processed simultaneously
-![Architecture](Bitcoin_Hashing.png.png)
-![Waveform](waveform1.png)
-![Waveform](waveform2.png)
-![Waveform](waveform3.png)
-![Waveform](waveform4.png)
+![Architecture](Bitcoin_Hashing.png)
+![Waveform](Screenshot1.png)
+![Waveform](Screenshot2.png)
+![Waveform](Screenshot3.png)
+![Waveform](Screenshot4.png)
 ---
 
 ## 🧪 Verification
