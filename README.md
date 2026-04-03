@@ -140,7 +140,6 @@ SHA-256 operates on:
 * Stable hash output after pipeline latency
 * Parallel inputs processed simultaneously
 ![Architecture](Bitcoin_Hashing.png)
-![Waveform](Screenshot1.png)
 ![Waveform](Screenshot2.png)
 ![Waveform](Screenshot3.png)
 ![Waveform](Screenshot4.png)
