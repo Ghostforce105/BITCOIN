@@ -197,8 +197,3 @@ B.Tech (Electronics & ML)
 
 ---
 
-If you want, I can also:
-
-* Convert this into a **PDF lab report**
-* Add **block diagrams explanation**
-* Or include **code snippets with explanation for viva**
