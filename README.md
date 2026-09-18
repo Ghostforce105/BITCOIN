@@ -194,7 +194,7 @@ SHA-256 operates on:
 
 * **Aditya Agarwal**
 * **Suryansh Bharadwaj**
-B.Tech (Electronics & ML)
+
 
 ---
 
